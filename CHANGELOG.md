@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/serializable-closure/compare/v2.0.1...2.x)
+## [Unreleased](https://github.com/laravel/serializable-closure/compare/v2.0.2...2.x)
+
+## [v2.0.2](https://github.com/laravel/serializable-closure/compare/v2.0.1...v2.0.2) - 2025-01-24
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/serializable-closure/pull/105
 
 ## [v2.0.1](https://github.com/laravel/serializable-closure/compare/v2.0.0...v2.0.1) - 2024-12-16
 
